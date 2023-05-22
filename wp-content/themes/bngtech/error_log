@@ -1,0 +1,4 @@
+[18-Mar-2023 08:52:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assorted/enkwave.com/wp-content/themes/bngtech/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/assorted/enkwave.com/wp-content/themes/bngtech/index.php on line 15

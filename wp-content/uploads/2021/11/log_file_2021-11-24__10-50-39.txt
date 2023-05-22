@@ -1,0 +1,109 @@
+
+---Downloaded files---
+The import files for: Home 1 were successfully downloaded!
+Initial max execution time = 3000
+Files info:
+Site URL = https://enkwave.com
+Data file = /home2/assorted/enkwave.com/wp-content/themes/bngtech/sample-data/contents-demo.xml
+Widget file = /home2/assorted/enkwave.com/wp-content/themes/bngtech/sample-data/widget-settings.json
+Customizer file = /home2/assorted/enkwave.com/wp-content/themes/bngtech/sample-data/customizer-data.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+footer-2-4 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - Contact Info - Imported to Inactive
+
+Blog Sidebar : 
+
+Search - No Title - Imported
+TechBuzz Sidebar Posts Image - Recent Post - Imported
+Categories - Categories - Imported
+Tag Cloud - Tags - Imported
+
+Footer 1 : 
+
+Custom HTML - About us - Imported
+
+Footer 2 : 
+
+Navigation Menu - Services - Imported
+
+Footer 3 : 
+
+TechBuzz Footer Posts Image - Recent Post. - Imported
+
+Footer 4 : 
+
+Image - Our Footprints - Imported
+
+Footer Style 2: 1 : 
+
+Custom HTML - Contact Info - Imported
+
+Footer Style 2: 2 : 
+
+Navigation Menu - Services - Imported
+
+Footer Style 2: 3 : 
+
+TechBuzz Footer Posts Image - Latest Posts - Imported
+
+Footer Style 3: 1 : 
+
+Navigation Menu - More Link - Imported
+
+Footer Style 3: 2 : 
+
+Navigation Menu - Services - Imported
+
+Footer Style 3: 3 : 
+
+Navigation Menu - Support - Imported
+
+Footer Style 3: 4 : 
+
+TechBuzz Footer Posts Image - Recent Posts - Imported
+
+Footer Style 4: 1 : 
+
+Custom HTML - Contact Info - Imported
+
+Footer Style 4: 2 : 
+
+Navigation Menu - Services - Imported
+
+Footer Style 4: 3 : 
+
+TechBuzz Footer Posts Image - Recent Posts - Imported
+
+Service Sidebar : 
+
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

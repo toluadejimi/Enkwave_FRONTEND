@@ -1,0 +1,28 @@
+{
+    "icons" : [
+        "flaticon-cubes",
+        "flaticon-briefcase",
+        "flaticon-dish",
+        "flaticon-game-controller",
+        "flaticon-video-camera",
+        "flaticon-shirt",
+        "flaticon-rocket",
+        "flaticon-reading-book",
+        "flaticon-group",
+        "flaticon-growth-chart",
+        "flaticon-computer",
+        "flaticon-it-1",
+        "flaticon-setting",
+        "flaticon-technical-support",
+        "flaticon-consulting",
+        "flaticon-bars",
+        "flaticon-bar-chart",
+        "flaticon-meeting",
+        "flaticon-board-meeting",
+        "flaticon-value",
+        "flaticon-high-value",
+        "flaticon-diamond",
+        "flaticon-agile",
+        "flaticon-graph"
+    ]
+}
